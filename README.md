@@ -10,5 +10,3 @@
 6. Start the project - `yarn start` (Starting React project for client side)
 
 Original repository of GraphQL endpoint: https://github.com/scandiweb/junior-react-endpoint
-
-React project for client side: https://github.com/eeeoox/store-template
